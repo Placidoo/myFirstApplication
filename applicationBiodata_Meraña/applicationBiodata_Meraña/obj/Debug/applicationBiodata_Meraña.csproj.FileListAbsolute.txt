@@ -1,0 +1,8 @@
+C:\Users\joedm\Documents\SharpDevelop Projects\applicationBiodata_Meraña\applicationBiodata_Meraña\bin\Debug\applicationBiodata_Meraña.exe.config
+C:\Users\joedm\Documents\SharpDevelop Projects\applicationBiodata_Meraña\applicationBiodata_Meraña\bin\Debug\applicationBiodata_Meraña.exe
+C:\Users\joedm\Documents\SharpDevelop Projects\applicationBiodata_Meraña\applicationBiodata_Meraña\bin\Debug\applicationBiodata_Meraña.pdb
+C:\Users\joedm\Documents\SharpDevelop Projects\applicationBiodata_Meraña\applicationBiodata_Meraña\obj\Debug\applicationBiodata_Meraña.csprojResolveAssemblyReference.cache
+C:\Users\joedm\Documents\SharpDevelop Projects\applicationBiodata_Meraña\applicationBiodata_Meraña\obj\Debug\applicationBiodata_Meraña.exe
+C:\Users\joedm\Documents\SharpDevelop Projects\applicationBiodata_Meraña\applicationBiodata_Meraña\obj\Debug\applicationBiodata_Meraña.pdb
+C:\Users\joedm\Documents\SharpDevelop Projects\applicationBiodata_Meraña\applicationBiodata_Meraña\obj\Debug\applicationBiodata_Meraña.MainForm.resources
+C:\Users\joedm\Documents\SharpDevelop Projects\applicationBiodata_Meraña\applicationBiodata_Meraña\obj\Debug\applicationBiodata_Meraña.csproj.GenerateResource.Cache

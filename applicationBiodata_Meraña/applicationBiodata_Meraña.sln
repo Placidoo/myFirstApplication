@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "applicationBiodata_Meraña", "applicationBiodata_Meraña\applicationBiodata_Meraña.csproj", "{3EF5CF63-D8EC-4431-8166-E0DA1304F29A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EF5CF63-D8EC-4431-8166-E0DA1304F29A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EF5CF63-D8EC-4431-8166-E0DA1304F29A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EF5CF63-D8EC-4431-8166-E0DA1304F29A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EF5CF63-D8EC-4431-8166-E0DA1304F29A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
